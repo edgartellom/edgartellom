@@ -1,57 +1,57 @@
-# ¡Hola!👋, Soy Edgar Tello (edgartellom)
+# Hello!👋, I'm Edgar Tello (edgartellom)
 
-## ¿Quién soy?
+## Who Am I?
 
-Apasionado Full Stack Web Developer y estudiante de ingeniería informática con un sólido trasfondo técnico en electricidad. Desde temprana edad, me fascina la tecnología y disfruto seguir de cerca los últimos avances y noticias relacionados con este campo emocionante.
+Passionate Full Stack Web Developer and computer engineering student with a solid technical background in electrical engineering. From a young age, I've been fascinated by technology and enjoy staying updated on the latest advancements and news in this exciting field.
 
-## Acerca de Mí 💡
+## About Me 💡
 
-Soy un apasionado Full Stack Web Developer y estudiante de ingeniería informática con habilidades especializadas en bases de datos relacionales y desarrollo backend. Mi enfoque principal es crear soluciones tecnológicas robustas y eficientes que impulsen la innovación en el mundo digital.
+I'm a passionate Full Stack Web Developer and computer engineering student with specialized skills in relational databases and backend development. My main focus is on creating robust and efficient technological solutions that drive innovation in the digital world.
 
-Creo firmemente en el poder del trabajo en equipo y valoro la colaboración para alcanzar metas comunes. Mi filosofía incluye mantener una actitud positiva, perseverancia y proactividad en cada proyecto en el que me involucro.
+I firmly believe in the power of teamwork and value collaboration to achieve common goals. My philosophy includes maintaining a positive attitude, perseverance, and proactivity in every project I'm involved in.
 
-Estoy emocionado por seguir aprendiendo y evolucionando en este emocionante viaje tecnológico, desafiándome a mí mismo para superar barreras y crear un impacto significativo en el mundo a través de la tecnología.
+I'm excited to continue learning and evolving in this thrilling technological journey, challenging myself to overcome barriers and make a significant impact on the world through technology.
 
-## Mis Metas y Aspiraciones 🚀
+## My Goals and Aspirations 🚀
 
-Mi visión es aportar al mundo tecnológico con innovación y creatividad, contribuyendo para hacer de nuestro mundo un lugar más interconectado y eficiente gracias a la tecnología.
+My vision is to contribute to the technological world with innovation and creativity, helping to make our world a more interconnected and efficient place through technology.
 
-Estoy lleno de entusiasmo y ansias por continuar aprendiendo, creciendo y colaborando en emocionantes proyectos tecnológicos en el futuro. Cada día es una oportunidad para adquirir nuevos conocimientos y habilidades, y estoy comprometido a sacar el máximo provecho de esta apasionante travesía en el universo digital.
+I am filled with enthusiasm and eagerness to keep learning, growing, and collaborating on exciting technological projects in the future. Each day is an opportunity to acquire new knowledge and skills, and I am committed to making the most of this exciting journey in the digital universe.
 
-¡El futuro es emocionante y lleno de posibilidades, y estoy listo para enfrentar los desafíos y alcanzar metas aún más grandes en este viaje tecnológico!
+The future is exciting and full of possibilities, and I am ready to face the challenges and achieve even greater goals in this technological journey!
 
-## Habilidades y Tecnologías 💻
+## Skills and Technologies 💻
 
-- Bases de datos relacionales: PostgreSQL, MySQL
-- Desarrollo Backend: Node.js, Express, Sequelize
+- Relational Databases: PostgreSQL, MySQL
+- Backend Development: Node.js, Express, Sequelize
 - Frontend: React, Redux, Vite.js, Bootstrap, Tailwind CSS
-- Cloud y Servicios: Firebase, AWS
-- Otros Lenguajes: Go, Python, Ruby, C, C++
-- Herramientas y Versionado: Git, Shell, Postman
-- Entornos de Desarrollo: Visual Studio Code
-- Plataformas de Despliegue: Vercel, Railway
+- Cloud and Services: Firebase, AWS
+- Other Languages: Go, Python, Ruby, C, C++
+- Tools and Version Control: Git, Shell, Postman
+- Development Environments: Visual Studio Code
+- Deployment Platforms: Vercel, Railway
 
-## Proyectos Destacados
+## Featured Projects
 
-### [Mitsumichi Motorcycles - E-commerce de Motocicletas](https://mitsumichi.vercel.app)
+### [Mitsumichi Motorcycles - Motorcycle E-commerce](https://mitsumichi.vercel.app)
 
-**Breve Descripción:**
-Mitsumichi es un sofisticado e-commerce especializado en motocicletas que ofrece a los entusiastas de las dos ruedas una experiencia de compra excepcional. Nuestro sitio web permite a los usuarios explorar una amplia gama de motocicletas y accesorios, con características que incluyen filtros avanzados y opciones de ordenamiento para facilitar la búsqueda y selección de productos.
+**Brief Description:**
+Mitsumichi is a sophisticated e-commerce platform specializing in motorcycles, providing an exceptional shopping experience for two-wheel enthusiasts. Our website allows users to explore a wide range of motorcycles and accessories, with features including advanced filters and sorting options to facilitate product search and selection.
 
-Los usuarios tienen la posibilidad de crear perfiles personalizados, editar sus preferencias y revisar productos. Además, ofrecemos un eficiente sistema de seguimiento de pedidos y notificaciones en tiempo real para mantener a los compradores informados sobre el estado de sus adquisiciones. Para una gestión óptima, implementamos un completo dashboard de administración que permite supervisar y gestionar pedidos, productos y reseñas.
+Users have the ability to create customized profiles, edit their preferences, and review products. Additionally, we offer an efficient order tracking system and real-time notifications to keep buyers informed about the status of their purchases. For optimal management, we've implemented a comprehensive admin dashboard that enables monitoring and handling of orders, products, and reviews.
 
-**Tecnologías Utilizadas:**
+**Technologies Used:**
 - Frontend: React, Vite.js, Redux, Tailwind CSS
 - Backend: Node.js, Express, Sequelize
-- Base de Datos: PostgreSQL
-- Plataforma de Pagos: PayPal
-- Servicios de Autenticación y Almacenamiento: Firebase
-- Integración de Email: Sendgrid
+- Database: PostgreSQL
+- Payment Platform: PayPal
+- Authentication and Storage Services: Firebase
+- Email Integration: Sendgrid
 
-## Contacto 📬
+## Contact 📬
 
-- Correo Electrónico: [edgar.tello@tecsup.edu.pe](mailto:edgar.tello@tecsup.edu.pe)
-- Celular/WhatsApp: [(+54)9-116884-3038](https://wa.me/5491168843038)
+- Email: [edgar.tello@tecsup.edu.pe](mailto:edgar.tello@tecsup.edu.pe)
+- Phone/WhatsApp: [(+54)9-116884-3038](https://wa.me/5491168843038)
 - LinkedIn: [edgar-tello](https://www.linkedin.com/in/edgar-tello)
 
 
