@@ -33,7 +33,7 @@ Estoy lleno de entusiasmo y ansias por continuar aprendiendo, creciendo y colabo
 
 ## Proyectos Destacados
 
-### [Mitsumichi Motorcycles] - E-commerce de Motocicletas (mitsumichi.vercel.app)
+### [Mitsumichi Motorcycles - E-commerce de Motocicletas](https://mitsumichi.vercel.app)
 
 **Breve Descripción:**
 Mitsumichi es un sofisticado e-commerce especializado en motocicletas que ofrece a los entusiastas de las dos ruedas una experiencia de compra excepcional. Nuestro sitio web permite a los usuarios explorar una amplia gama de motocicletas y accesorios, con características que incluyen filtros avanzados y opciones de ordenamiento para facilitar la búsqueda y selección de productos.
