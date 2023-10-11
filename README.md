@@ -51,7 +51,7 @@ Los usuarios tienen la posibilidad de crear perfiles personalizados, editar sus 
 ## Contacto 📬
 
 - Correo Electrónico: [edgar.tello@tecsup.edu.pe](mailto:edgar.tello@tecsup.edu.pe)
-- Celular/WhatsApp: [+54 9 116884-3038](https://wa.me/5491168843038)
+- Celular/WhatsApp: [(+54)9-116884-3038](https://wa.me/5491168843038)
 - LinkedIn: [edgar-tello](https://www.linkedin.com/in/edgar-tello)
 
 
